@@ -34,10 +34,7 @@ To run this project, you need Python and the following libraries:
 - matplotlib
 - seaborn
 
-Install them using pip:
-```bash
-pip install pandas matplotlib seaborn
-
+  
 Usage
 Follow these steps to use the analysis scripts:
 Visualizations
@@ -53,3 +50,6 @@ Households with Telephones and Mobile Phones
 
 Contributing
 
+Install them using pip:
+```bash
+pip install pandas matplotlib seaborn
