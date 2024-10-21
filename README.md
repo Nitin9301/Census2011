@@ -1,5 +1,3 @@
-# Census2011
-data analysis project census 2011
 # Census 2011 Data Analysis Project
 
 This repository contains an analysis of the Census 2011 dataset, focusing on various demographic metrics such as population distribution, literacy rates, gender ratios, and more. The project utilizes Python's powerful data analysis and visualization libraries to extract meaningful insights.
@@ -39,4 +37,19 @@ To run this project, you need Python and the following libraries:
 Install them using pip:
 ```bash
 pip install pandas matplotlib seaborn
+
+Usage
+Follow these steps to use the analysis scripts:
+Visualizations
+Population Distribution
+
+Literacy Rates by State
+
+Gender Ratios
+
+Power Parity by State
+
+Households with Telephones and Mobile Phones
+
+Contributing
 
